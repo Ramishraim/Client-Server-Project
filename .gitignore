@@ -1,0 +1,19 @@
+# Ignore binary and object files
+bin/
+obj/
+
+# Ignore specific file types
+*.exe
+*.o
+*.log
+
+# Ignore IDE/editor files
+*.suo
+*.user
+*.cproj
+*.log
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
