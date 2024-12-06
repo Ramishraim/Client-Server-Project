@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1732276632 source:c:\users\ramis\onedrive\desktop\auctionhouse\main.c
+	<stdio.h>
+	<stdlib.h>
+	"server.h"
+
+1732276991 source:c:\users\ramis\onedrive\desktop\auctionhouse\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+
+1732275919 c:\users\ramis\onedrive\desktop\auctionhouse\server.h
+
+1732275919 c:\users\ramis\onedrive\desktop\auctionhouse\client.h
+
+1732731469 source:c:\users\ramis\onedrive\desktop\auctionhouse\server'.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<pthread.h>
+	<windows.h>
+
